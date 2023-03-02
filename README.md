@@ -1,2 +1,2 @@
 # learning-git
-learning git and github
+Git - add, status, commit, push, config
